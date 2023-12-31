@@ -2,7 +2,9 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
-/Quorum.Test/obj
-/Quorum.Test/.vs
-/Quorum.Test/bin/Debug/net8.0
+# Build results
+[Dd]ebug/
+[Bb]in/
+[Oo]bj/
+
+.vs/
